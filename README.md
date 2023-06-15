@@ -1,11 +1,11 @@
-About r-conditionz
-==================
+About r-conditionz-feedstock
+============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-conditionz-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/ropenscilabs/conditionz
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-conditionz-feedstock/blob/main/LICENSE.txt)
 
 Summary: Provides ability to control how many times in function calls conditions are thrown (shown to the user). Includes control of warnings and messages.
 
